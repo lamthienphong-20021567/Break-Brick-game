@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\Admin\Documents\Bricks Breaker 2.0\Game.cpp(117,34): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  hehe.vcxproj -> C:\Users\Admin\Documents\Bricks Breaker 2.0\x64\Debug\hehe.exe

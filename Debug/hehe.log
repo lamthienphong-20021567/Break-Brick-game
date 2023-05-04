@@ -1,0 +1,16 @@
+﻿  ball.cpp
+C:\Users\LEDUC\Desktop\hehe\ball.cpp(30,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LEDUC\Desktop\hehe\ball.cpp(31,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LEDUC\Desktop\hehe\ball.cpp(37,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Board.cpp
+C:\Users\LEDUC\Desktop\hehe\Board.cpp(51,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LEDUC\Desktop\hehe\Board.cpp(52,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Entity.cpp
+  Game.cpp
+C:\Users\LEDUC\Desktop\hehe\Game.cpp(79,30): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  maintest.cpp
+  paddle.cpp
+C:\Users\LEDUC\Desktop\hehe\paddle.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LEDUC\Desktop\hehe\paddle.cpp(29,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  hehe.vcxproj -> C:\Users\LEDUC\Desktop\hehe\Debug\hehe.exe
